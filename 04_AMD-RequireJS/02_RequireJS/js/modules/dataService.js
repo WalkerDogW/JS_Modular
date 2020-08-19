@@ -8,7 +8,7 @@ define(
 
         //暴露模块
         return {
-            getName:getName;
+            getName:getName
         }
     }
 );
